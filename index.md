@@ -37,20 +37,21 @@ function fancyAlert(arg) {
   }
 }
 ```
-
-#```javascript
-#<div id="text"></div>
-# 
-#<script>
-#document.getElementById("text").innerHTML = "Text added by JavaScript code (inside index.md)";
-#</script>
-#```
+```javascript
+<div id="text"></div>
+ 
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code (inside index.md)";
+</script>
+```
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="/demo.js"></script>
+
 ```
 Should be words here
 ```
+
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="/demo.js"></script>
 
